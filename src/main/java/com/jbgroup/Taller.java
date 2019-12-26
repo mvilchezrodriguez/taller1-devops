@@ -8,6 +8,7 @@ public class Taller {
      System.out.println("Esta es parte tarea 2"); 
      System.out.println("Esta es parte tarea 3");
      System.out.println("Esta es parte tarea 4");
+	 System.out.println("Jenkins y GitLab 2");
 	}  
 
 } 
