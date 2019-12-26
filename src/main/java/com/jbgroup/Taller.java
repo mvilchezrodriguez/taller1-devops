@@ -8,13 +8,10 @@ public class Taller {
      System.out.println("Esta es parte tarea 2"); 
      System.out.println("Esta es parte tarea 3");
      System.out.println("Esta es parte tarea 4");
-<<<<<<< HEAD
+
 	 System.out.println("desde rama migueñ");
-=======
 	 System.out.println("DESDE RAMA MASTER , PERO PUSH A RAMA MIGUEL");
-	
-System.out.println("OTRO MAS");
->>>>>>> 5bb9f0da8274fda16c9995218fedab337eb25731
+System.out.println("PRACTICANDO DESDE RAMA DON MIGUELITO A REMOTO MASTE");
 	}  
 
 } 
