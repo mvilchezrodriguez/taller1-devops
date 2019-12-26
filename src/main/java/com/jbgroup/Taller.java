@@ -8,7 +8,7 @@ public class Taller {
      System.out.println("Esta es parte tarea 2"); 
      System.out.println("Esta es parte tarea 3");
      System.out.println("Esta es parte tarea 4");
-	 System.out.println("Jenkins y GitLab 2 desde  rama master agregado");
+	 System.out.println("DESDE RAMA MASTER , PERO PUSH A RAMA MIGUEL");
 	}  
 
 } 
